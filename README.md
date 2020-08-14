@@ -1,4 +1,4 @@
-# sei-24
+# SEI-24
 
 ## Projects
 
